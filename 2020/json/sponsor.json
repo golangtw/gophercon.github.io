@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Golang Taipei",
+    "slug": "golangtaipei",
+    "url": "https://golang.tw",
+    "description": "成立於2013年，由一群熱愛 Golang 程式語言的成員組成，在國內推廣Golang，並促進社群成員交流。每個月舉辦 Meetup 技術分享會、參與國內外大型研討會議程。目前有社團成員6000多人。歡迎有興趣的朋友加入。",
+    "level": "holder",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "贊助募集中",
+    "slug": "co-holder",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "co-holder",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "鑽石級贊助募集中",
+    "slug": "dimand",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "level-1",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "金級贊助募集中",
+    "slug": "gold1",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "level-2",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "金級贊助募集中",
+    "slug": "gold2",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "level-2",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "銀級贊助募集中",
+    "slug": "silver1",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "level-3",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "銀級贊助募集中",
+    "slug": "silver2",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "level-3",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "銀級贊助募集中",
+    "slug": "silver3",
+    "url": "https://golang.tw",
+    "description": "tba",
+    "level": "level-3",
+    "image": "golangtw.png"
+  },
+  {
+    "name": "募集中",
+    "slug": "media",
+    "url": "https://golang.tw",
+    "description": "",
+    "level": "media",
+    "image": "golangtw.png"
+  }
+]
