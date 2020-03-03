@@ -1,0 +1,76 @@
+[
+  {
+    "name": "總召組",
+    "description": "掌握協調年會籌備進度，主持核心討論及決策。",
+    "members": [
+      {
+        "name": "Evan Lin",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      }
+    ]
+  },
+  {
+    "name": "贊助組",
+    "description": "負責年會與金錢相關的業務。",
+    "members": [
+      {
+        "name": "David Chou",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      },
+      {
+        "name": "Kakashi",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      }
+    ]
+  },
+  {
+    "name": "議程組",
+    "description": "議程組負責一切與議程相關的事情，舉凡投稿與審稿、講者聯繫、Keynote 與論壇的安排，以及會議廳的主持等，都是議程組的工作範圍，此外，議程組也負責一部分的大會活動。",
+    "members": [
+      {
+        "name": "Che Chia Chang",
+        "emailHash": "e56eaaf62e2112055827c197b938d620"
+      },
+      {
+        "name": "Yun Chen",
+        "emailHash": "b0afebacee0682f094fb53399a1c1dc8"
+      }
+    ]
+  },
+  {
+    "name": "場務組",
+    "description": "GopherCon 場務組主要負責年會的機動人力、動線、餐飲、報到、物流的規劃，是人數最多的一組，適合最有熱情、最有活力的朋友們！",
+    "members": [
+      {
+        "name": "Cherie Hsieh",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      }
+    ]
+  },
+  {
+    "name": "機動組",
+    "description": "負責年會與金錢相關的業務。",
+    "members": [
+      {
+        "name": "GTB",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      },
+      {
+        "name": "Katten",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      },
+      {
+        "name": "Eason",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      },
+      {
+        "name": "Caesar",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      },
+      {
+        "name": "Benjamin",
+        "emailHash": "205e460b479e2e5b48aec07710c08d50"
+      }
+    ]
+  }
+]
